@@ -1,0 +1,13 @@
+.circular_progress_container {
+  position: fixed;
+  height: 717px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #282828d1;
+  z-index: 1400;
+}
+.hide_loader{
+  display: none;
+}

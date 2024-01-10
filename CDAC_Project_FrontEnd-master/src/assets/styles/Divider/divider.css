@@ -1,0 +1,12 @@
+.divider_wrapper{
+    margin-left: 216px;
+    height: 702px;
+    padding-left: 1%;
+    overflow-y: scroll;
+    padding-top: 1%;
+    padding-right: 1%;
+}
+
+.divider_wrapper::-webkit-scrollbar{
+    display: none;
+}

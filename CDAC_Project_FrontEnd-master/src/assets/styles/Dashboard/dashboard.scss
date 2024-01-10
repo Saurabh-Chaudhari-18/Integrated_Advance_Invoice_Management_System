@@ -1,0 +1,14 @@
+.stats_container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-bottom: 50px;
+    .line_container{
+        flex-basis: 50%;
+    }
+
+    .css-10vg0a6-MuiResponsiveChart-container{
+        width:527px !important;
+    }
+}

@@ -1,0 +1,19 @@
+.header_wrapper{
+
+    display: flex;
+    /* border: 1px solid; */
+    gap: 18px;
+    align-items: center;
+    /* justify-content: flex-end; */
+    padding: 13px 8px;
+    background-color: #f0f1f4;
+    margin-bottom: 25px;
+
+}
+.header_title{
+    font-size: 24px;
+    font-weight:bold
+}
+.header_notification_icon{
+    margin-left: auto;
+}
